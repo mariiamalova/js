@@ -9,6 +9,7 @@ import javax.persistence.*;
 import java.util.*;
 import java.util.stream.Collectors;
 //у меня для тебя новости
+//а сейчас
 @Entity
 public class User implements UserDetails {
 
