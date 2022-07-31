@@ -8,7 +8,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 import javax.persistence.*;
 import java.util.*;
 import java.util.stream.Collectors;
-
+//у меня для тебя новости
 @Entity
 public class User implements UserDetails {
 
